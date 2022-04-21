@@ -1,0 +1,584 @@
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNTEGRA\Documents\Visual Studio 2010\Projects\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+F:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+F:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+E:\FacebookGiriş\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+E:\FacebookGiriş\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FacebookGiriş\FacebookGiriş\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bilisim\Desktop\Yeni klasör\FacebookGiriş\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bilisim\Desktop\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+F:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+F:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+E:\FacebookGiriş22\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+E:\FacebookGiriş22\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FacebookGiriş22\FacebookGiriş\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+F:\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\FacebookGiriş 1.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\Sosyal Medya Simulasyon 2.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 2.0.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form2.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\Sosyal Medya Simulasyon 3.2 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.sakınbasma.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.sakınbasma.resources
+C:\Users\MİNETGRA\Desktop\MinOS 3.2\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.sakınbasma.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.sakınbasma.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.3 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.sakınbasma.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form1.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form10.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form11.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form12.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form13.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form14.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form15.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form16.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form17.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form3.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form4.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form5.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form6.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form7.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form8.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Form9.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.sakınbasma.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 3.4 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Tüm Sürümler\MinOS 3.4\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.SürümNotları.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Masaüstü.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookGirişSayfası.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKazan.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.BilgisayarımÖzellikler.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKaybet.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Wia.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GizliPencere.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeOyun.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuOyun.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookProfil.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleArama.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleGörseller.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.HesapMakinesi.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookGirişSayfası.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.SürümNotları.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeOyun.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKazan.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.BilgisayarımÖzellikler.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKaybet.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuOyun.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookProfil.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Wia.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleArama.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleGörseller.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Masaüstü.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.HesapMakinesi.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GizliPencere.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Ayarlar.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.AyarlarKişiselleştirme.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookGirişSayfası.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.SürümNotları.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeOyun.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKazan.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.BilgisayarımÖzellikler.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKaybet.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuOyun.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookProfil.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Wia.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleArama.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleGörseller.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Masaüstü.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.HesapMakinesi.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GizliPencere.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAramaSonucuBulunamadı.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\bin\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.ResolveComReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeNormEnderDeli.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.ResolveComReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\bin\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAramaSonucuBulunamadı.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeNormEnderDeli.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeDumanBal.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.0\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeMaviGriBenSendeYandım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.ResolveComReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\bin\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookGirişSayfası.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAramaSonucuBulunamadı.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.SürümNotları.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKazan.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.BilgisayarımÖzellikler.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKaybet.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuOyun.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookProfil.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Wia.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleArama.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleGörseller.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Masaüstü.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.HesapMakinesi.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GizliPencere.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeDumanBal.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeMaviGriBenSendeYandım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeNormEnderDeli.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.ResolveComReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csprojResolveAssemblyReference.cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Bilgisayarım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookGirişSayfası.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAramaSonucuBulunamadı.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.SürümNotları.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKarşılıklı.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKazan.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.BilgisayarımÖzellikler.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKaybet.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YasTahminOyunuOyun.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.FacebookProfil.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Wia.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleArama.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GoogleGörseller.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Masaüstü.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.HesapMakinesi.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Properties.Resources.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.GizliPencere.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeBeraberlik.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeAnaSayfa.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeDumanBal.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeMaviGriBenSendeYandım.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.YoutubeNormEnderDeli.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.csproj.GenerateResource.Cache
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.exe
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\bin\Debug\FacebookGiriş.pdb
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\bin\Debug\Interop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKolay.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1 - Kopya\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Boot.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.Boot.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKarşılıklı.resources
+C:\Users\MİNETGRA\Desktop\MY Project\Üzerinde Çalıştığım\MinOS 4.1\FacebookGiriş\obj\x86\Debug\FacebookGiriş.TicTacToeKolay.resources

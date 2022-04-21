@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BF6371AF-E508-4825-A159-3FF384582A94}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FacebookGiriş</RootNamespace>
+    <AssemblyName>FacebookGiriş</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilgisayarım.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilgisayarım.Designer.cs">
+      <DependentUpon>Bilgisayarım.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boot.Designer.cs">
+      <DependentUpon>Boot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacebookGirişSayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacebookGirişSayfası.Designer.cs">
+      <DependentUpon>FacebookGirişSayfası.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleAramaSonucuBulunamadı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoogleAramaSonucuBulunamadı.Designer.cs">
+      <DependentUpon>GoogleAramaSonucuBulunamadı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SürümNotları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SürümNotları.Designer.cs">
+      <DependentUpon>SürümNotları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToeKarşılıklı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToeKarşılıklı.Designer.cs">
+      <DependentUpon>TicTacToeKarşılıklı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToeKolay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToeKolay.Designer.cs">
+      <DependentUpon>TicTacToeKolay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToeAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToeAnaSayfa.Designer.cs">
+      <DependentUpon>TicTacToeAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToeKazan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToeKazan.Designer.cs">
+      <DependentUpon>TicTacToeKazan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BilgisayarımÖzellikler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BilgisayarımÖzellikler.Designer.cs">
+      <DependentUpon>BilgisayarımÖzellikler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToeKaybet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToeKaybet.Designer.cs">
+      <DependentUpon>TicTacToeKaybet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YasTahminOyunuAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YasTahminOyunuAnaSayfa.Designer.cs">
+      <DependentUpon>YasTahminOyunuAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YasTahminOyunuOyun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YasTahminOyunuOyun.Designer.cs">
+      <DependentUpon>YasTahminOyunuOyun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacebookProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacebookProfil.Designer.cs">
+      <DependentUpon>FacebookProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wia.Designer.cs">
+      <DependentUpon>Wia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoogleAnaSayfa.Designer.cs">
+      <DependentUpon>GoogleAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoogleArama.Designer.cs">
+      <DependentUpon>GoogleArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleGörseller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoogleGörseller.Designer.cs">
+      <DependentUpon>GoogleGörseller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masaüstü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masaüstü.Designer.cs">
+      <DependentUpon>Masaüstü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HesapMakinesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HesapMakinesi.Designer.cs">
+      <DependentUpon>HesapMakinesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GizliPencere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GizliPencere.Designer.cs">
+      <DependentUpon>GizliPencere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToeBeraberlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToeBeraberlik.Designer.cs">
+      <DependentUpon>TicTacToeBeraberlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubeAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoutubeAnaSayfa.Designer.cs">
+      <DependentUpon>YoutubeAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubeDumanBal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoutubeDumanBal.Designer.cs">
+      <DependentUpon>YoutubeDumanBal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubeMaviGriBenSendeYandım.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoutubeMaviGriBenSendeYandım.Designer.cs">
+      <DependentUpon>YoutubeMaviGriBenSendeYandım.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubeNormEnderDeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoutubeNormEnderDeli.Designer.cs">
+      <DependentUpon>YoutubeNormEnderDeli.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bilgisayarım.resx">
+      <DependentUpon>Bilgisayarım.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boot.resx">
+      <DependentUpon>Boot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacebookGirişSayfası.resx">
+      <DependentUpon>FacebookGirişSayfası.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoogleAramaSonucuBulunamadı.resx">
+      <DependentUpon>GoogleAramaSonucuBulunamadı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SürümNotları.resx">
+      <DependentUpon>SürümNotları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToeKarşılıklı.resx">
+      <DependentUpon>TicTacToeKarşılıklı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToeKolay.resx">
+      <DependentUpon>TicTacToeKolay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToeAnaSayfa.resx">
+      <DependentUpon>TicTacToeAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToeKazan.resx">
+      <DependentUpon>TicTacToeKazan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BilgisayarımÖzellikler.resx">
+      <DependentUpon>BilgisayarımÖzellikler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToeKaybet.resx">
+      <DependentUpon>TicTacToeKaybet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YasTahminOyunuAnaSayfa.resx">
+      <DependentUpon>YasTahminOyunuAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YasTahminOyunuOyun.resx">
+      <DependentUpon>YasTahminOyunuOyun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacebookProfil.resx">
+      <DependentUpon>FacebookProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wia.resx">
+      <DependentUpon>Wia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoogleAnaSayfa.resx">
+      <DependentUpon>GoogleAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoogleArama.resx">
+      <DependentUpon>GoogleArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoogleGörseller.resx">
+      <DependentUpon>GoogleGörseller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masaüstü.resx">
+      <DependentUpon>Masaüstü.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HesapMakinesi.resx">
+      <DependentUpon>HesapMakinesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GizliPencere.resx">
+      <DependentUpon>GizliPencere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToeBeraberlik.resx">
+      <DependentUpon>TicTacToeBeraberlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoutubeAnaSayfa.resx">
+      <DependentUpon>YoutubeAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoutubeDumanBal.resx">
+      <DependentUpon>YoutubeDumanBal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoutubeMaviGriBenSendeYandım.resx">
+      <DependentUpon>YoutubeMaviGriBenSendeYandım.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoutubeNormEnderDeli.resx">
+      <DependentUpon>YoutubeNormEnderDeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
